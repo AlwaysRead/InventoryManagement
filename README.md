@@ -18,6 +18,8 @@ By adopting this approach, companies can benefit from several significant advant
 - Use historical sales data, purchase price data, inventory levels, and other variables to train the model
 - Implement transfer learning to enable companies to efficiently adapt the model to their specific data
 
+After cloning the repository, download the datasets from [Google Drive](https://drive.google.com/drive/folders/1wV6t2emlxqnjgnhKZ0CjPSbYzm6H3rQV?usp=drive_link) and place them in the data/ directory.
+
 ## PROJECT STRUCTURE
 
 The project is organized as follows:
