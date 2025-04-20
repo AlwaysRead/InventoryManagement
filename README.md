@@ -251,6 +251,7 @@ Implement continuous training processes to keep the model updated with the lates
 ## Members
 Chinmoy Saikia
 Subhadip Guha Roy
+Tushar Kumar
 
 ## License
 This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE.txt) file for details.
