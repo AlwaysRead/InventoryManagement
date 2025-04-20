@@ -248,5 +248,9 @@ Enrich forecasts by incorporating additional relevant data sources like weather 
 ### Ongoing Training
 Implement continuous training processes to keep the model updated with the latest market trends, periodically reassessing performance and adjusting parameters as necessary.
 
+## Members
+Chinmoy Saikia
+Subhadip Guha Roy
+
 ## License
 This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE.txt) file for details.
